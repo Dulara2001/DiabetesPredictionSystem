@@ -1,4 +1,5 @@
 # Diabetes Prediction System
+#### Demo Link: https://diabetespredictionsystem-sliit-fdmproject.streamlit.app/
 
 ## Background
 This project aims to predict diabetes in patients based on their medical history and demographic information. Diabetes is a chronic condition affecting millions worldwide, and early detection is crucial for better patient outcomes. By analyzing medical and demographic factors such as age, BMI, hypertension, heart disease, HbA1c levels, and blood glucose levels, we developed a machine learning model to assist in early diabetes detection and management.
@@ -39,7 +40,6 @@ The project followed these steps:
    - Logistic Regression
 
 ![image](https://github.com/user-attachments/assets/e9bfc9fa-ab02-407f-8675-940d45344a14)
-
 
 5. **Deployment**: The optimal model was integrated into a web application using Streamlit.
 
