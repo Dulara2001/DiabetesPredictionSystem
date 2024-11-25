@@ -34,7 +34,7 @@ def user_report():
     return report_data
 
 # Load your dataset
-dataset = pd.read_csv('D:/SLIIT/Y3S2/FDM/project/diabetes_prediction_dataset.csv')
+dataset = pd.read_csv('diabetes_prediction_dataset.csv')
 
 
 # Preprocessing
