@@ -1,5 +1,6 @@
 # Diabetes Prediction System
 #### Demo Link: https://diabetespredictionsystem-sliit-fdmproject.streamlit.app/
+#### Watch Demo: https://drive.google.com/file/d/1m3UVSh-ypqR3s9hit5CMXomp0ffEmIb5/view?usp=sharing
 
 ## Background
 This project aims to predict diabetes in patients based on their medical history and demographic information. Diabetes is a chronic condition affecting millions worldwide, and early detection is crucial for better patient outcomes. By analyzing medical and demographic factors such as age, BMI, hypertension, heart disease, HbA1c levels, and blood glucose levels, we developed a machine learning model to assist in early diabetes detection and management.
